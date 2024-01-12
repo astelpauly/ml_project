@@ -11,7 +11,6 @@ from sklearn.preprocessing import OneHotEncoder,StandardScaler
 from src.exception import CustomException
 from src.logger import logging
 import os
-import pickle
 
 from src.utils import save_object
 
